@@ -147,3 +147,5 @@ Detalhe honesto: esses arquivos de conhecimento estão escritos em chinês. Não
 Guía elaborada a partir de la documentación oficial del proyecto · Guia elaborada a partir da documentação oficial do projeto. El software pertenece a sus autores · O software pertence aos seus autores.
 
 Licencias: Mika es Apache-2.0; esta guía se publica bajo licencia MIT. · Licenças: o Mika é Apache-2.0; este guia é publicado sob a licença MIT.
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
